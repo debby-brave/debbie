@@ -1,0 +1,5 @@
+# Your real task data is created here when you use the app.
+# It should not be committed to GitHub.
+tasks.json
+tasks.json.corrupt
+__pycache__
